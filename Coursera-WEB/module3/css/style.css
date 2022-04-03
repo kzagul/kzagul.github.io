@@ -1,0 +1,40 @@
+body{
+	background-color: rgb(255, 255, 255);
+}
+#menu{
+	font-weight:bold;
+   font-size:2em;
+}
+h3{
+   font-size:2em;
+   font-weight:bold;
+   padding-top:10px;
+}
+#header-nav{
+	background-color:rgb(185, 185, 185); 
+	color: rgb(255, 255, 255);
+}
+.panel{
+	background-color: rgb(185, 185, 185);
+}
+.nav > li{
+	display:block;
+}
+.navbar-default .navbar-nav>li>a{
+     color: white;
+}
+.navbar-default .navbar-brand{
+	color: white;
+	font-weight:bold;
+	font-size:2em;
+}
+#nav-list>li{
+	border-bottom: 1px solid white;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+.navbar-nav{
+	margin-bottom:0px;
+	margin-top: 0px;
+}
